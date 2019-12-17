@@ -1,13 +1,24 @@
 # Smart ESP32 Car
 
 
+![Licencia](./images/Licencia_CC.png)
+
+by @javacasm
+
+La idea es hacer un transplante de cerebro al conocido Smart Car de Elegoo poniendo un Wemos D1 R32, compatible con el pinout de Arduino al que instalaremos micropython
+
+## Conexionado 
+
+El conexionado del coche es este
 ![](./images/wireconnect.png)
 
+Imagen cortesía de [MCI electronic](https://www.mcielectronics.cl/shop/product/robot-inteligente-elegoo-v3-0-manual-en-espanol-25769)
+
+### Arduino vs Wemos D1 R32
 ![](./images/Pinout-Arduino-WemosD1R32.png)
-![](./images/Licencia_CC.png)
 ![](./images/Correspondencia-Arduino-WemosD1R32.png)
 
-
+Cortesía de [Leopoldo Armesto Ángel](https://www.slideshare.net/LeopoldoArmestongel)
 
 ### Servo: D3 - GPIO25
 
