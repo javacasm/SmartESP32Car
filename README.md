@@ -12,7 +12,6 @@ La idea es hacer un transplante de cerebro al conocido Smart Car de Elegoo ponie
 El conexionado del coche es este
 ![](./images/wireconnect.png)
 
-Imagen cortesía de [MCI electronic](https://www.mcielectronics.cl/shop/product/robot-inteligente-elegoo-v3-0-manual-en-espanol-25769)
 
 ### Arduino vs Wemos D1 R32
 ![](./images/Pinout-Arduino-WemosD1R32.png)
