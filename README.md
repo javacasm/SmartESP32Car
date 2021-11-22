@@ -19,6 +19,11 @@ El conexionado del coche es este
 
 Cortesía de [Leopoldo Armesto Ángel](https://www.slideshare.net/LeopoldoArmestongel)
 
+
+### Pinout
+
+![](./images/Wemos_D1_R32_pinout.jpeg)
+
 ### Servo: D3 - GPIO25
 
 Una aplicación del PWM es el control de los conocidos servos (o servomotores)
